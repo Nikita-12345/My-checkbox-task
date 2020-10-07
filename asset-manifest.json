@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-task/static/css/main.e2bdff01.chunk.css",
-    "main.js": "/my-task/static/js/main.a5b64557.chunk.js",
-    "main.js.map": "/my-task/static/js/main.a5b64557.chunk.js.map",
-    "runtime-main.js": "/my-task/static/js/runtime-main.35ecdd31.js",
-    "runtime-main.js.map": "/my-task/static/js/runtime-main.35ecdd31.js.map",
-    "static/css/2.2d63d0b4.chunk.css": "/my-task/static/css/2.2d63d0b4.chunk.css",
-    "static/js/2.534e965b.chunk.js": "/my-task/static/js/2.534e965b.chunk.js",
-    "static/js/2.534e965b.chunk.js.map": "/my-task/static/js/2.534e965b.chunk.js.map",
-    "index.html": "/my-task/index.html",
-    "precache-manifest.9ecc1f5094d5fe31fd0ebf29b4f50fdc.js": "/my-task/precache-manifest.9ecc1f5094d5fe31fd0ebf29b4f50fdc.js",
-    "service-worker.js": "/my-task/service-worker.js",
-    "static/css/2.2d63d0b4.chunk.css.map": "/my-task/static/css/2.2d63d0b4.chunk.css.map",
-    "static/css/main.e2bdff01.chunk.css.map": "/my-task/static/css/main.e2bdff01.chunk.css.map",
-    "static/js/2.534e965b.chunk.js.LICENSE.txt": "/my-task/static/js/2.534e965b.chunk.js.LICENSE.txt"
+    "main.css": "/My-checkbox-task/static/css/main.e2bdff01.chunk.css",
+    "main.js": "/My-checkbox-task/static/js/main.3134ed0d.chunk.js",
+    "main.js.map": "/My-checkbox-task/static/js/main.3134ed0d.chunk.js.map",
+    "runtime-main.js": "/My-checkbox-task/static/js/runtime-main.4c01dfe4.js",
+    "runtime-main.js.map": "/My-checkbox-task/static/js/runtime-main.4c01dfe4.js.map",
+    "static/css/2.2d63d0b4.chunk.css": "/My-checkbox-task/static/css/2.2d63d0b4.chunk.css",
+    "static/js/2.534e965b.chunk.js": "/My-checkbox-task/static/js/2.534e965b.chunk.js",
+    "static/js/2.534e965b.chunk.js.map": "/My-checkbox-task/static/js/2.534e965b.chunk.js.map",
+    "index.html": "/My-checkbox-task/index.html",
+    "precache-manifest.ddc0dbb7701336436efaf9411d57d791.js": "/My-checkbox-task/precache-manifest.ddc0dbb7701336436efaf9411d57d791.js",
+    "service-worker.js": "/My-checkbox-task/service-worker.js",
+    "static/css/2.2d63d0b4.chunk.css.map": "/My-checkbox-task/static/css/2.2d63d0b4.chunk.css.map",
+    "static/css/main.e2bdff01.chunk.css.map": "/My-checkbox-task/static/css/main.e2bdff01.chunk.css.map",
+    "static/js/2.534e965b.chunk.js.LICENSE.txt": "/My-checkbox-task/static/js/2.534e965b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35ecdd31.js",
+    "static/js/runtime-main.4c01dfe4.js",
     "static/css/2.2d63d0b4.chunk.css",
     "static/js/2.534e965b.chunk.js",
     "static/css/main.e2bdff01.chunk.css",
-    "static/js/main.a5b64557.chunk.js"
+    "static/js/main.3134ed0d.chunk.js"
   ]
 }
